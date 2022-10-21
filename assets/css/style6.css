@@ -1,0 +1,19 @@
+.first-heading{
+    color: white;
+    background-color:red
+}
+.second-heading{
+    color:black;
+    background-color: yellow;
+}
+.third-heading {
+    color: black;
+    background-color: gray;
+}
+.fourth-heading{
+    color: red;
+    background-color: white;
+}
+.fifth-heading{
+    color: blue;
+}
